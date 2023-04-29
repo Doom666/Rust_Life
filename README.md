@@ -19,8 +19,8 @@ the creatures will move by a reinforcement learning algorythm, so its behaviour 
 
 I'll try to implement rurel example and create a window with a moving blue circle, representing a creature and a green scuare shape, representing a plant:
 
-- [] Rurel example run
-- [] Bevy window - black BG 666x666 px
-- [] bevy circle - randomly spawn
-- [] bevy scuare - randomly spawn
-- [] bevy blue movement
+- [ ] Rurel example run
+- [ ] Bevy window - black BG 666x666 px
+- [ ] bevy circle - randomly spawn
+- [ ] bevy scuare - randomly spawn
+- [ ] bevy blue movement
