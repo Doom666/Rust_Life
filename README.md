@@ -12,13 +12,13 @@ I want to create some "alive agents" into an envioronment, to create a life simu
 
 in a 2D plane, there will be vegetation, represented by a growing cellular automata branching structure.
 then there will be creatures that eats this vegetation, they will move smoothly.
-
 the creatures will move by a reinforcement learning algorythm, so its behaviour will be emergent more than hard coded.
 
 ### Challenge 1: Bevy and Rurel
 
 I'll try to implement rurel example and create a window with a moving blue circle, representing a creature and a green scuare shape, representing a plant:
 
+- [ ] Sync the project to github and then set it up so you can work on your laptop as well
 - [X] Rurel example run
 - [ ] Bevy window - black BG 666x666 px
 - [ ] bevy circle - randomly spawn
