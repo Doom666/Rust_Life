@@ -12,7 +12,6 @@ I want to create some "alive agents" into an envioronment, to create a life simu
 
 in a 2D plane, there will be vegetation, represented by a growing cellular automata branching structure.
 then there will be creatures that eats this vegetation, they will move smoothly.
-
 the creatures will move by a reinforcement learning algorythm, so its behaviour will be emergent more than hard coded.
 
 ### Challenge 1: Bevy and Rurel
