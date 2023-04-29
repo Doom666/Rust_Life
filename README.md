@@ -1,10 +1,10 @@
 # Rust Life Project
-
-## Learning Rust by doing
-
 I am interested on intelligence, life simulations and psycology/ Behaviour.
 I chose to ditch Python and learn Rust due to rust being more strict, fast and in depth than python.
 I am reading the Rust book, but I burn for implementing something, typing, seeing something in the screen.
+
+## Learning Rust by doing
+Let's see how far I get with this one....
 
 ## About this project
 
@@ -23,4 +23,4 @@ I'll try to implement rurel example and create a window with a moving blue circl
 - [ ] Bevy window - black BG 666x666 px
 - [ ] bevy circle - randomly spawn
 - [ ] bevy scuare - randomly spawn
-- [ ] bevy blue movement
+- [ ] bevy blue movement Bithug666!
